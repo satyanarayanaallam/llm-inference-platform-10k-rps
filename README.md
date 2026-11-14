@@ -161,27 +161,7 @@ vLLM versions and attention backends change; if the install or launch fails on a
 
 ---
 
-## Repository structure
 
-```
-llm-inference-platform-10k-rps/
-├── README.md
-├── notebooks/
-│   └── capacity_experiment.ipynb
-├── src/
-│   ├── load_test.py
-│   └── metrics_sampler.py
-├── images/
-│   ├── fig1_architecture.png
-│   ├── fig2_replica.png
-│   ├── fig3_capacity_curves.png
-│   ├── fig4_what_breaks_first.png
-│   └── fig5_cost_levers.png
-└── docs/
-    └── blog-post.md
-```
-
----
 
 ## Glossary
 
